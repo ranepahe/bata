@@ -1,2 +1,2 @@
 # bata
-html5 thingy
+HTML5 Tutorial thingy I followed.
